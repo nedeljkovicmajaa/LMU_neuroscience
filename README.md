@@ -6,4 +6,4 @@ Various mathematical analyses can be used in this field, to obtain any patterns 
 And indeed, basic methods of data analysis, as well as advanced methods of machine learning, indicate evident differences in the encoding of information in the brain. The different responses of neurons to different spatial stimuli, as well as the dependence of the reactions on the state (anesthetized/awake), are only some of the confirmed hypotheses. 
 Due to the unexplored nature of this field, the project stays open for further research and development.
 
-![Slide1](https://user-images.githubusercontent.com/57879705/185630673-72fad2b5-f5b0-45f0-b41a-67629d457c2c.JPG)
+![poster](https://user-images.githubusercontent.com/57879705/186419128-b0968302-cb57-412b-9120-3886629163af.png)
